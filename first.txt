@@ -1,2 +1,3 @@
 Here is my firt file.
+Here is a line in the middle. 
 It is a wonderful file.
